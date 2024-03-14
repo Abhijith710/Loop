@@ -1,4 +1,4 @@
-document.write("<h2>Odd or Even Numbers from 0 to 15:</h2>");
+document.write("<h3>Odd or Even Numbers from 0 to 15:</h3>");
 
 for (let i = 0; i <= 15; i++) {
     if (i % 2 === 0) {
